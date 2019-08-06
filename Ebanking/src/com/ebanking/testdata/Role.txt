@@ -1,0 +1,5 @@
+RoleName###RoleDes###RoleType###Results
+managercitibk09###manager###E
+managercitibk89###manager###E
+managercitibk59###manager###E
+managercitibk19###manager###E
